@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+I'm Joseph, a Senior Platform Engineer building "Paved Roads" for enterprise teams.
 
-<!--
-**VargasDevelopment/VargasDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current Focus:**
+- 🔭 **IndiFlow (Private):** Architecting a SaaS-scale project management platform.
+  - **Stack:** SveltFlow, FastAPI, PostgreSQL, Yjs (hocuspocus), Redis.
+  - **Status:** MVP shipped to production.
 
-Here are some ideas to get you started:
+**Public Projects:**
+- 🐍 **Kroget:** A Python CLI/TUI for grocery data (because recurring grocery orders should be automated but safe).
+- 🔄 **Slack-Sync-Discord:** Kafka-based message streaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Expertise:**
+- **Infrastructure:** AWS CDK, EKS, Terraform, 
+- **Languages:** Python, TypeScript, (dabbling in Go)

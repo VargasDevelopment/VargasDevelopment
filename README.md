@@ -3,7 +3,7 @@ I'm Joseph, a Senior Platform Engineer building "Paved Roads" for enterprise tea
 
 **Current Focus:**
 - 🔭 **IndiFlow (Private):** Architecting a SaaS-scale project management platform.
-  - **Stack:** SveltFlow, FastAPI, PostgreSQL, Yjs (hocuspocus), Redis.
+  - **Stack:** SveltFlow, FastAPI, PostgreSQL, Yjs (hocuspocus), Valkey.
   - **Status:** MVP shipped to production.
 
 **Public Projects:**

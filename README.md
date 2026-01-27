@@ -9,7 +9,7 @@ I help developers ship fast so they can concentrate on production code, not infr
 
 **Public Projects:**
 - 🚂 **mrw (Mini Railway):** A minimal container provisioning control plane (FastAPI → Kubernetes API → Deployments/Services)
-- 🐍 **Kroget:** A Python CLI/TUI for grocery data (because recurring grocery orders should be automated but safe).
+- 🐍 **Kroget:** A Python CLI/TUI for grocery shopping at Kroger (because recurring grocery orders should be automated but safe).
 - 🔄 **Slack-Sync-Discord:** Kafka-based message streaming.
 
 **Expertise:**

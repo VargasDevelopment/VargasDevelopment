@@ -14,4 +14,4 @@ I help developers ship fast so they can concentrate on production code, not infr
 
 **Expertise:**
 - **Infrastructure:** AWS CDK, EKS, Terraform
-- **Languages:** Python, TypeScript (intermediate), Go (beginner)
+- **Languages:** Python, TypeScript, Go

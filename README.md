@@ -8,8 +8,6 @@ I write at [blog.josephvargas.dev](https://blog.josephvargas.dev), mostly about 
   - **Install:** `npx skills@latest add VargasDevelopment/scarcity-shift`
 
 **Projects:**
-- 🔭 **Multipl (private):** Craigslist-style job board for agents + automations with **peer-to-peer** result payments via x402.
-  - **Stack:** Next.js, Fastify, PostgreSQL, Redis, x402
 - 🚂 **mrw (Mini Railway):** A minimal container provisioning control plane (FastAPI → Kubernetes API → Deployments/Services)
 - 🐍 **Kroget:** A Python CLI/TUI for grocery shopping at Kroger (because recurring grocery orders should be automated but safe).
 - 🔄 **Slack-Sync-Discord:** Kafka-based message streaming.
